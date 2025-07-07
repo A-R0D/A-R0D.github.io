@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Adrian Rodriguez - Aspiring Cybersecurity Professional
+title: Adrian Rodriguez - Cybersecurity Analyst
 ---
 
-# <span style="font-size: 1.25em;">Adrian Rodriguez - Aspiring Cybersecurity Professional</span>
+# <span style="font-size: 1.25em;">Adrian Rodriguez - Cybersecurity Analyst</span>
 
 Welcome to my GitHub Page! I am passionate about Cybersecurity and Information Technology. Explore my projects, certifications, and resources below.
 
 ## <span style="font-size: 1em;"> About Me
-I am currently pursuing my Bachelor's in Cybersecurity and Information Assurance at Western Governors University. In addition to my studies, I work as a Peer Coach, helping students prepare for and pass the CompTIA A+ exam. I'm passionate about growing and learning in the cybersecurity field and excited to continue building on my foundational skill set as I advance in this industry
-
+I hold a Bachelor's in Cybersecurity and Information Assurance from Western Governors University. Currently, I’m working as a Triage Security Analyst Intern, where I monitor, investigate, and escalate security alerts to help protect enterprise environments. My role involves working with SIEM tools, analyzing logs, and contributing to incident response efforts. I'm passionate about continuous growth in cybersecurity and committed to developing my skills through hands-on experience in real-world security operations.
 <img src="./assets/AdrianCPIC.png" alt="Profile Picture" width="200"/>
 
 ## <span style="font-size: 1em;">Certifications
@@ -17,6 +16,8 @@ I am currently pursuing my Bachelor's in Cybersecurity and Information Assurance
 - **CompTIA A+** - January 2024
 - **CompTIA Network+** - April 2024
 - **CompTIA Security+** - July 2024
+- **CompTIA Pentest+** - May 2025
+- **SSCP** February 2025
 - **ITIL** - September 2024
 
 ---
@@ -28,6 +29,8 @@ I am currently pursuing my Bachelor's in Cybersecurity and Information Assurance
 | Linux/Mac/Windows | Advanced     | 
 | Microsoft 365 Suite/Teams | Advanced  |
 | Cisco Webex       | Advanced      | 
+| SIEM Tools | Advanced 
+
 
 ---
 
