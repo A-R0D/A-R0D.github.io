@@ -9,6 +9,7 @@ Welcome to my GitHub Page! I am passionate about Cybersecurity and Information T
 
 ## <span style="font-size: 1em;"> About Me
 I hold a Bachelor's in Cybersecurity and Information Assurance from Western Governors University. Currently, I’m working as a Triage Security Analyst Intern, where I monitor, investigate, and escalate security alerts to help protect enterprise environments. My role involves working with SIEM tools, analyzing logs, and contributing to incident response efforts. I'm passionate about continuous growth in cybersecurity and committed to developing my skills through hands-on experience in real-world security operations.
+
 <img src="./assets/AdrianCPIC.png" alt="Profile Picture" width="200"/>
 
 ## <span style="font-size: 1em;">Certifications
