@@ -8,7 +8,7 @@ title: Adrian Rodriguez - Cybersecurity Analyst
 Welcome to my GitHub Page! I am passionate about Cybersecurity and Information Technology. Explore my projects, certifications, and resources below.
 
 ## <span style="font-size: 1em;"> About Me
-I hold a Bachelor's in Cybersecurity and Information Assurance from Western Governors University. Currently, I’m working as a Triage Security Analyst Intern, where I monitor, investigate, and escalate security alerts to help protect enterprise environments. My role involves working with SIEM tools, analyzing logs, and contributing to incident response efforts. I'm passionate about continuous growth in cybersecurity and committed to developing my skills through hands-on experience in real-world security operations.
+I hold a Bachelor's in Cybersecurity and Information Assurance from Western Governors University. Currently, I’m working as a Security Analyst, where I monitor, investigate, and escalate security alerts to help protect enterprise environments. My role involves working with SIEM tools, analyzing logs, and contributing to incident response efforts. I'm passionate about continuous growth in cybersecurity and committed to developing my skills through hands-on experience in real-world security operations.
 
 <img src="./assets/AdrianCPIC.png" alt="Profile Picture" width="200"/>
 
